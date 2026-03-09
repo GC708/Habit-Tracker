@@ -6,7 +6,7 @@ An app where users can record their habits.
 - JavaFX Scene Builder 23.0.1
 - Git 2.48.1
 ### Developer Notes
-Serialization was not implemented due to time constraints. 
+Persistent storage was not implemented due to time constraints. 
 
 ### Preview
 ![App Interface Preview](src/main/resources/images/app-preview.png)
